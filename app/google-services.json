@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571153325519",
+    "firebase_url": "https://quanliresort-24000.firebaseio.com",
+    "project_id": "quanliresort-24000",
+    "storage_bucket": "quanliresort-24000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571153325519:android:9c78527e239af6a10886ba",
+        "android_client_info": {
+          "package_name": "com.example.quanliresort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571153325519-fqqbtp4kju9ipr918jjjuitml7ghaa7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quanliresort",
+            "certificate_hash": "0603162fedd63c32de569e519211d05abce18573"
+          }
+        },
+        {
+          "client_id": "571153325519-jk0c4t07ti98c20pt2vsgaikmu66m8k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb9WcIelmHi-iLqWElngmeoyUU1_oSzkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571153325519-jk0c4t07ti98c20pt2vsgaikmu66m8k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
